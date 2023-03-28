@@ -8,7 +8,7 @@ sudo apt install libjsoncpp-dev
 
 Скрипт тестировался на Ubuntu 22.04.2 LTS.
 
-#Compile
+# Compile
 Компиляция выполняется через shell скрипт (makeRelease.sh)
 
 sudo bash makeRelease.sh
